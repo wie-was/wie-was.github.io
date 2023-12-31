@@ -12,18 +12,18 @@ ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
 theme = "hugo-paper"
-title = "Paper"
+title = "wie-was"
 
 [params]
   color = 'linen'
 
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
+# twitter = 'nanxiaobei'
+  github = 'wie-was'
+  instagram = 'a__life__of__ones__own'
 
   avatar = 'nanxiaobei@gmail.com'
-  name = 'Lee'
-  bio = 'Discover fresh context'
+  name = 'R. O.'
+  bio = 'My personal website and blog. Music nerding and thoughts about life.'
 # ------------------------------
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)

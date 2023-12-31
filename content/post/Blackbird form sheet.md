@@ -1,12 +1,24 @@
-# Blackbird form sheet
++++
+author = "R. O."
+title = "Blackbird form sheet"
+date = "2023-12-31"
+description = ""
+tags = [
+    "music",
+    "transcription",
+    "sheet music"
+]
+# weight = 10
++++
+
+# 
+
 
 Song: [The Beatles - Blackbird](https://www.youtube.com/watch?v=Man4Xw8Xypo)
 
-Fiddled around with this song on both bass and guitar, and found it hard to remember the form. Therefore I made myself a quick sheet to remember it. 
+Here's a fun tutorial to learn this song on guitar: {{< youtube 5TnySn2KqD4 >}}
 
-Ah, there's a fun tutorial to learn this song on guitar: https://www.youtube.com/watch?v=5TnySn2KqD4
-
-
+I fiddled around with this song on both bass and guitar, and found it hard to remember the form. Therefore I made myself a quick sheet to remember it:
 
 | Music                                                                             | Lyrics                                                                                                                                                    |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
