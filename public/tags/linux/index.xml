@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Everything Poetic</title>
+    <link>https://hugo-paper.vercel.app/tags/linux/</link>
+    <description>Recent content in Linux on Everything Poetic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-paper.vercel.app/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pop!_OS First impressions</title>
+      <link>https://hugo-paper.vercel.app/post/2023-11-15-pop_os-first-impressions/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-paper.vercel.app/post/2023-11-15-pop_os-first-impressions/</guid>
+      <description>Collected notes from switching from Windows 10 to Pop!_OS as my daily driver OS.
+Upsides  Less distraction / Distraction-free environnment. No ads, no widgets with (boulevard) news forced upon you, no flashy login-screen pictures &amp;ldquo;Do you like what you see?&amp;rdquo;, no trying to force Edge browser or other Microsoft tools upon you, no account-necessity, no automatic-updates that keep you from working vpn It&amp;rsquo;s so distraction-free, it feels boring in the beginning.</description>
+    </item>
+    
+  </channel>
+</rss>
