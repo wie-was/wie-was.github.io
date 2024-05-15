@@ -8,9 +8,11 @@ tags = [
 ]
 +++
 
+Weil wir...
+
 * Zeit und Datum an der analogen Armbanduhr nachstellen
 * Zeit und Datum an einer zweiten analogen Armbanduhr nachstellen
-* Analoge Uhren auf Sommer- bzw. Winterzeit umstellen
+* Analoge Uhren an Wänden, am Backofen, am Wecker usw. auf Sommer- bzw. Winterzeit umstellen
 * Fingernägel schneiden
 * Zehennägel schneiden
 * Zahnpasta kaufen
@@ -24,7 +26,7 @@ tags = [
 * Als Frau sich ggf. die Beine sowie weitere Körperteile rasieren, epilieren, wachsen
 * Die Haut mit Crèmes pflegen
 * Im Sommer vor dem Verlassen der Wohnung ggf. Sonnencréme applizieren
-* Zum Coiffeur gehen oder sich anderweitig die Haare schneiden
+* Zum Coiffeur gehen oder sich anderweitig die Haare schneiden lassen
 * Aufräumen
 * Staubsaugen
 * Abstauben
@@ -38,8 +40,8 @@ tags = [
 * Die Küche putzen
 * Den Kühlschrank ausräumen, reinigen und wieder einräumen
 * Fenster putzen
-* Lederschuhe pflegen und ggf. reinigen; Alltagsschuhe wöchentlich, Wanderschuhe 2x jährlich oder bei Bedarf
-* Fahrzeuge (Auto, Velo) und Gegenstände reparieren oder warten lassen
+* Lederschuhe und andere Lederprodukte pflegen und ggf. reinigen; Alltagsschuhe wöchentlich pflegen, Wanderschuhe 2x jährlich oder bei Bedarf. Sich so organisieren, dass 
+* Fahrzeuge (Auto, Velo) und Gegenstände reparieren oder regelmässig warten (lassen)
 * Papier und Karton sammeln, bündeln und entsorgen
 * Müll rausbringen
 * PET, Alu, Glas sammeln, sortieren und zu den unterschiedlichen Entsorgungsstellen bringen
@@ -47,8 +49,10 @@ tags = [
 * Mails lesen und beantworten
 * Chats abweiden und beantworten
 * Social Media abarbeiten
+* Zeitungen, Foren, Blogs abweiden
+* YouTube Videos schauen (abonnierte Kanäle)
 * Ggf. eine parallele, virtuelle Realität auf Social Media aufbauen und bewirtschaften
-* Telefonate entgegennehmen und führen; Anrufe tätigen
+* Telefonate entgegennehmen und führen; selber Anrufe tätigen
 * Rechnungen bezahlen; sich dazu per Zwei-Faktor-Authentifizierung im E-Banking anmelden
 * Kaputte und nicht mehr erwünschte Dinge ausmisten, entsorgen oder verkaufen
 * Schöne neue Dinge im Internet recherchieren, aussuchen, Preise vergleichen und bestellen
@@ -71,33 +75,35 @@ tags = [
   * Kabellose Kopfhörer
   * Laptop, Tablet
   * Boombox bzw. portabler Lautsprecher
-  * Digitale Armbanduhr
-  * Staubsauger-Roboter
-  * Akku-Staubsauger
-* Geräte, Einrichtungsgegenstände entweder selber reparieren (dazu Tutorials konsultieren und sich einarbeiten), oder einschicken oder in ein Geschäft tragen und reparieren lassen. Sich mit der damit einhergehenden Bürokratie beschäftigen.
+  * Digitale und analoge Armbanduhren
+  * Staubsauger-Roboter & Akku-Staubsauger
+  * Akku-Bohrmaschinen
+  * Elektro-Auto
+  * Wecker
+  * Thermometer
+* Geräte, Einrichtungsgegenstände entweder selber reparieren (dazu Tutorials konsultieren und sich einarbeiten), oder verpacken, auf die Post bringen und einschicken oder in ein Geschäft tragen und reparieren lassen. Sich mit der damit einhergehenden Bürokratie beschäftigen.
 * Sich Sorgen machen über den Zustand der Welt, insbesondere die Umwelt: Klimawandel, Artensterben, Pestizide und PFAs und Mikroplastik, die Böden und Grundwasser (womöglich für immer) verunreinigen.
 * Nicht in den Urlaub fliegen aus Gewissensgründen, und sich über andere aufregen, die dies trotzdem tun.
 * Jährlich Versicherungsprämien vergleichen. Eine neue Versicherung abschliessen und ggf. eine alte kündigen. Formulare a gogo, Mails, Telefonate, neue Accounts, Zwei-Faktor-Authentifizierung, Telefonat mit dem IT-Support, mehr Mails.
 * Sich Gedanken zur beruflichen Vorsorge machen
-* Die Steuererklärung ausfüllen
+* Die Steuererklärung ausfüllen und sich ggf. von Steuerberatern beraten lassen; damit einhergehend Mails, Telefonate, Mails.
 * Sich von Werbung bombardieren lassen auf allen Kanälen
 * Regelmässig E-Mail-Newsletter abbestellen
 * Fragebögen ausfüllen
 * An Umfragen teilnehmen
-* Rückmeldungen zu Software verfassen
-* Bugreports erfassen
+* Rückmeldungen zu Software und Bugreports verfassen
 * An wissenschaftlichen Studien teilnehmen
 * Politische Petitionen unterzeichnen und ggf. brieflich einsenden
 * Auf der Strasse angebettelt werden und sich darüber aufregen
 * Generell auf der Strasse angesprochen werden, weil jemand etwas von einem will (politische Zustimmung, finanzielle Unterstützung)
 * Sich gegen die Massenüberwachung im Internet wehren, sich informieren und entsprechende technische Massnahmen ergreifen
-* Seine demokratischen Pflichten erfüllen (Schweiz: Alle drei Monate zu rund 3-10 Themen wählen und abstimmen, idealerweise vorangehend die öffentliche Debatte verfolgen, sich informieren, die Abstimmungsunterlagen lesen, verschiedene Standpunkte zu verstehen versuchen - oder alternativ: Sich ein schlechte Gewissen machen, weil all dies nicht geschieht.)
-* Bücher oder Artikel lesen
+* Seine demokratischen Pflichten erfüllen (Schweiz: Alle drei Monate zu rund 3-10 Themen wählen und abstimmen, idealerweise vorangehend die öffentliche Debatte verfolgen, sich informieren, die Abstimmungsunterlagen lesen, verschiedene Standpunkte zu verstehen versuchen - oder alternativ: Sich ein schlechtes Gewissen machen, weil all dies oder einzelne Punkte davon nicht geschehen.)
+* Bücher oder Zeitung oder Hefte und Magazine lesen
 * Podcasts hören
-* Die aktuell angesagten und viel-gelobten TV-Serien ansehen
-* Kinofilme und andere empfehlenswerten Filme schauen
+* Sich die aktuell angesagten TV-Serien ansehen
+* Kinofilme oder andere empfehlenswerte Filme schauen
 * Kulturelle Ereignisse besuchen wie Konzerte, Festivals, Theater, Oper, Happenings, Ausstellungen, Museen, Podien.
-* Sich mit sich selber auseinandersetzen und ggf. versuchen, sich zu optimieren. 
+* Sich mit sich selber auseinandersetzen und ggf. versuchen, an sich zu arbeiten.
 * Ggf. eine Therapie beginnen
 * Zur Allgemeinärztin gehen zu Kontrollzwecken (Blutbild, generelle Kontrolle)
 * Als Frau regelmässig zum Frauenarzt gehen
@@ -111,11 +117,13 @@ tags = [
 * Ggf. meditieren oder gar Yoga betreiben
 * Sich über seine Ernährung Gedanken machen. Ggf. Ernährung umstellen, anpassen. Ratgeber lesen, Kochbücher lesen.
 * Ggf. eigenes Sauerteigbrot herstellen. In diesem Fall den Sauerteig mind. wöchentlich füttern
-* Arbeiten bzw. Geld verdienen
+* Arbeiten bzw. Geld verdienen oder zur Schule gehen oder Studieren
+* Weiterbildungen besuchen
+* Sich in der Freizeit weiterbilden
 * Sich auf neue Jobs bewerben
 * Sich auf eine neue Wohnung bewerben
 * Verwandte besuchen oder mit ihnen in Kontakt treten
 * Geburtstage, Hochzeiten, Beerdigungen besuchen, selbstverständlich auch über Landesgrenzen hinweg
-* Freundschaften pflegen, weltweit. Es gibt kein Vergessen, kein Entrinnen, keine Zustellverzögerung mehr im digitalen Zeitalter. Alle sind jederzeit mit allen anderen verbunden. Weltweit Freunde besuchen gehen
+* Freundschaften pflegen, weltweit. Es gibt kein Vergessen, kein Entrinnen, keine Zustellverzögerung mehr im digitalen Zeitalter. Alle sind jederzeit mit allen anderen verbunden. Weltweit Freundschaften pflegen
 
 ### Und wir fragen uns, warum wir keine Zeit mehr haben? 😆

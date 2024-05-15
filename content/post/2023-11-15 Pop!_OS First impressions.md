@@ -35,39 +35,57 @@ Collected notes from switching from Windows 10 to [Pop!_OS](https://pop.system76
 ## Downsides
 
 * Display scale settings did not save out of the box. (Solution, some setting, *HiDPI Daemon*, had to be disabled first.
+
 * 2-finger scrolling speed on touchpad can only be changed on the command line (!), no GUI for this. To be fair. The same touchpad scrolling was also not great under Windows.
   \-> Gnome-tweaks: https://support.system76.com/articles/touchpad
+
 * 2-finger scrolling:
+  
   * Natural scrolling setting does not work -> Probably because of my command line hacks, so this does not count.
   * Typing difficult, I always accidentally hit the Touchpad and my cursor flys off (despite having selected "Touchpad off while typing" in Settings.
+
 * Waking up from sleep:
+  
   * Serious bug when waking up from sleep (overnight): OS will come alive, but no new command works; No app can be started, not even reboot or shutdown works! Had to power off via the power button
   * When closing laptop and reopening: Display turned head over heals.
+
 * Youtube-Video-Playback quality. No hardware acceleration (+ 60% Processor load) -> moves fans und drains battery unnecessarily and leaves one with bad video quality.
+
 * Video/audio in general: lot of formats/codecs do not work out of the box. To be fair there is a support article about this. https://support.system76.com/articles/codecs/
   In the support article we learn:
-
+  
   > Because of legal restrictions, this package cannot be installed automatically
+
 * Bluetooth speaker nicht erkannt (Legami) | mit UE Boom funktionierts ohne Probleme. -> Evtl. codec umstellen für Legami?
+
 * ~~LibreOffice deinstalliert, OnlyOffice installiert: Doppelklick auf Excel -> es passiert nichts mehr, nichtmal eine Meldung. Default application behaviour broken. Solution: Rightclick -> open with OnlyOffice. Couple of hours later it works, fine.~~
+
 * ~~Switch between external and internal display (Laptop). Display scaling settings not saved?~~ Nope, it works!
+
 * ~~Nextcloud Desktop client: Setting *Launch on System Startup* does not work with Flatpak version~~ -> Solution: Works with Debian version.
+
 * Hibernate not possible (not speaking of automatic)
+
 * ~~Weather widget: Show only Fahrenheit. Not possible to adjust (Celsius, or delete widget)~~ -> Adjusted to Celsius.
+
 * Some notifications show up again after 3 days, even if they have been "clicked away" previously.
+
 * Dock: Setting "Intelligently hide" does not work totally smoothly.
+  
   * Mouse has to be "slammed" quite hard against the bottom border of the screen in order to make it appear. Gentle touching does not trigger it unfortunately.
   * Conceals items on desktop
+
 * After around 1 month of daily use first system crash.
+
 * After around 1.5 months of daily use sound device disappears. Reboot does not help. (See helpful stuff.)
+
 * Recent total system crashes when listening to music from external harddrive with VLC and using TC Konnekt Audiointerface.
+
 * Automatic suspend does not respect audio playback (Youtube)?
 
 ## Helpful stuff
 
 - Problem with ProtonVPN and the killswitch (no internet): `protonvpn-cli ks --off\`\` This disables the killswitch
-
-
 * Touchpad fix: `xinput --set-prop 13 'Synaptics Scrolling Distance' -500 -500` (Find out ID (13) of Touchpad with `xinput list`)
 * Touchpad while typing fix: Users can simply open terminal and run the command below to test it out:
 
@@ -106,4 +124,3 @@ Pop!\_OS
 ElementaryOS
 Fedora
 Nobara
-

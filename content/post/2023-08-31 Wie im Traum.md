@@ -15,17 +15,15 @@ So flüchtig
 
 und leicht
 
-und in Farbnebel gehüllt
+und in Farbnebel gehüllt,
 
-ist es, neben Dir
+ist es, 
 
-zu stehen.
+neben Dir zu stehen.
 
 Und geradeaus
 
-ins leere Glück
-
-zu stieren,
+ins leere Glück zu stieren,
 
 wissend,
 

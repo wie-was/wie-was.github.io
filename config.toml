@@ -3,7 +3,7 @@ baseURL = "https://hugo-paper.vercel.app/"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 paginate = 12
-languageCode = "en"
+languageCode = 	"en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -11,19 +11,22 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
+#theme = "hugo-paper"
 theme = "hugo-paper"
-title = "Everything Poetic"
+title = "Everything Is Poetry"
 
 [params]
   color = 'linen'
 
 # twitter = 'nanxiaobei'
+  mastodon = '#'
   github = 'wie-was'
   instagram = 'a__life__of__ones__own'
 
   avatar = 'nanxiaobei@gmail.com'
-  name = 'Everything Poetic'
-  bio = 'My personal website and blog. Music nerding & writing.'
+  name = 'Everything Is Poetry'
+# bio = 'My personal website and blog. Music nerding, IT & writing.'
+  bio = 'Ihre Privatsphäre ist uns unwichtig'
 
 # ------------------------------
 
